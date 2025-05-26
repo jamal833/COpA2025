@@ -1,8 +1,3 @@
-
-
-
-
-
 # COST Action Training School in Computational Opinion Analysis – COpA 2nd Ed.
 
 May 28-29, 2025 
