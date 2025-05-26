@@ -1,8 +1,8 @@
 # COST Action Training School in Computational Opinion Analysis – COpA 2nd Ed.
 
-Topic: Managing and Processing Multiple Languages
-Instructor: Jamal Nasir (Assistant Professor, University of Galway, Ireland)
-You can add me on LinkedIn: https://www.linkedin.com/in/jamal-nasir-44153ba/
+* Topic: Managing and Processing Multiple Languages
+* Instructor: Jamal Nasir (Assistant Professor, University of Galway, Ireland)
+* You can add me on LinkedIn: https://www.linkedin.com/in/jamal-nasir-44153ba/
 
 May 28-29, 2025 
 
