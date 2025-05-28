@@ -27,5 +27,4 @@ For the practical demonstration, open notebook on Google Colab:
 - For Python users: [![Open In
   Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12L5c4hpiGgLRbOE9YxCEQqhaLXhyHK8O?usp=sharing)
 
-
-* You can add me on [![LinkedIn]] (https://www.linkedin.com/in/jamal-nasir-44153ba/)
+ 
