@@ -17,7 +17,7 @@ Thursday (29-05-2025):
 
 ## Session Slides:
 
-(MultiLingual-Elbasan.pdf)
+<https://jamal833.github.io/COpA2025-MultiLingual/MultiLingual-Elbasan.pdf>
 
 
 ## Coding Demo:
