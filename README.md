@@ -17,7 +17,7 @@ Thursday (29-05-2025):
 
 ## Session Slides:
 
-The slides for the session will be provided after the session.
+(MultiLingual-Elbasan.pdf)
 
 
 ## Coding Demo:
